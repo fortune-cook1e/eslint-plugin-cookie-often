@@ -1,10 +1,10 @@
 {
-  "name": "@fortune-cook1e/eslint-plugin-cookie-often",
+  "name": "eslint-plugin-cookie-often",
   "version": "0.0.0",
   "description": "personal eslint rules",
   "repository": {
     "type": "git",
-    "url": "git@github.com:fortune-cook1e/eslint-plugin-cookie-often.git"
+    "url": "git://github.com/fortune-cook1e/eslint-plugin-cookie-often.git" 
   },
   "keywords": [
     "eslint",
